@@ -1,0 +1,7 @@
+KEY,ID,PROJECT_CODE,PROJECT_NAME,ASSIGNEE,CREATOR,CREATED,CHANNEL,OWNER,REPORTER,LABELS,SUMMARY,STATUS,STATUS_CATEGORY,PRIORITY,ISSUE_TYPE,SEVERITY,SLA_HOURS,REOPEN_COUNT,ENVIRONMENT,RESOLVED_TS
+BUG-101,1,PAY,Payments,101,201,2025-01-01,Email,SRE,201,backend,Payment API timeout in prod,In Progress,In Progress,High,Bug,P1,24,1,Prod,
+INC-102,2,AUTH,Authentication,102,202,2025-01-02,Monitoring,SRE,202,auth,Login failures for EU users,To Do,To Do,Critical,Incident,P0,4,0,Prod,
+BUG-103,3,PAY,Payments,103,201,2025-01-03,Jira,Backend Lead,201,db,Slow DB queries on reports,Done,Done,Medium,Bug,P2,72,2,Staging,2025-01-05
+TASK-104,4,CORE,Core Platform,104,203,2025-01-04,Jira,Platform Lead,203,infra,Upgrade Redis version,In Progress,In Progress,Low,Task,P3,168,0,Prod,
+BUG-105,5,AUTH,Authentication,101,202,2025-01-05,Email,SRE,202,security,Token refresh fails intermittently,In Progress,In Progress,High,Bug,P1,24,3,Prod,
+INC-106,6,CORE,Core Platform,102,203,2025-01-06,Monitoring,SRE,203,infra,Service crash during peak load,To Do,To Do,Critical,Incident,P0,2,0,Prod,

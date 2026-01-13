@@ -1,0 +1,8 @@
+ID,DISPLAY_NAME,ROLE,TEAM,LOCATION,EMAIL,ONCALL,ROLE_LEVEL
+101,Amit Sharma,Backend Engineer,Payments,India,amit@company.com,Yes,Engineer
+102,Sarah Lee,SRE,Platform,UK,sarah@company.com,Yes,Engineer
+103,Rahul Verma,Database Engineer,Payments,India,rahul@company.com,No,Engineer
+104,Emily Chen,Platform Engineer,Core,US,emily@company.com,No,Engineer
+201,Neha Gupta,Engineering Manager,Payments,India,neha@company.com,No,Manager
+202,John Miller,SRE Lead,Authentication,US,john@company.com,Yes,Lead
+203,Alex Brown,Platform Lead,Core,UK,alex@company.com,No,Lead
