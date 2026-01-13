@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+python-dotenv
+faiss-cpu
+sentence-transformers
+groq
+matplotlib
+plotly
+langgraph
+langchain_groq
